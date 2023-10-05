@@ -13,7 +13,7 @@ anyway uh have [cool funky icons](https://skillicons.dev)
 [![C, C++, Rust, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=c,cpp,rust,js,html,css)](#)
 
 *Tools*  
-[![IntelliJ (CLion), CMake, Git, PowerShell, NGINX, Visual Studio Code](https://skillicons.dev/icons?i=idea,cmake,git,powershell,nginx,vscode)](#)
+[![Visual Studio Code, CMake, Git, PowerShell, NGINX](https://skillicons.dev/icons?i=vscode,cmake,git,powershell,nginx)](#)
 
 *Other*  
 [![blender](https://skillicons.dev/icons?i=blender)](#)
