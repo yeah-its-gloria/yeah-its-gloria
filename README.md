@@ -3,17 +3,19 @@ I'm a hobbyist software engineer with some years of experience and a thing for t
 
 Right now I spend most of my time working on Cell, sometimes I contribute to projects I like™️
 
-I do C++ and Rust stuff generally :3  
-I'm kinda a jack of all trades and can work with a lot of things  
-I've made past experiences with C#, Go, Java, you name it! If it's somehow interesting you can bet I'll at least take a look
+I work mostly on stuff with Swift, C++ and Rust, but I've also made plenty of experience with C, C#, Go, Java, Kotlin, JavaScript and a couple other programming languages
+As long as it catches my interest, I'll give it a shot : )
 
 anyway uh have [cool funky icons](https://skillicons.dev)
 
 *Languages*  
-[![C, C++, Rust, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=c,cpp,rust,js,html,css)](#)
+[![C, C++, Rust, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=swift,cpp,rust,c,js,html,css)](#)
 
 *Tools*  
-[![Visual Studio Code, CMake, Git, PowerShell, NGINX](https://skillicons.dev/icons?i=vscode,cmake,git,powershell,nginx)](#)
+[![Visual Studio Code, CMake, Git, NGINX](https://skillicons.dev/icons?i=vscode,cmake,git,nginx)](#)
+
+*Platforms*  
+[![macOS, Windows, Linux](https://skillicons.dev/icons?i=apple,windows,linux)](#)
 
 *Other*  
 [![blender](https://skillicons.dev/icons?i=blender)](#)
