@@ -9,7 +9,7 @@ As long as it catches my interest, I'll give it a shot : )
 anyway uh have [cool funky icons](https://skillicons.dev)
 
 *Languages*  
-[![C, C++, Rust, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=swift,cpp,rust,c,js,html,css)](#)
+[![Swift, C++, Rust, C, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=swift,cpp,rust,c,js,html,css)](#)
 
 *Tools*  
 [![Visual Studio Code, CMake, Git, NGINX](https://skillicons.dev/icons?i=vscode,cmake,git,nginx)](#)
